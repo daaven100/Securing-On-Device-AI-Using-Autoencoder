@@ -7,7 +7,7 @@ This repository includes implementations for both ImageNet and CIFAR-10 classifi
 
 Each script has its required dependencies listed at the top of the file. Make sure to install them in your environment before running.
 
-You can download the datasets here:  
+You can download the datasets here: https://www.kaggle.com/datasets/drvoyager/model-probing-attack-dataset
 
 Make sure to update the dataset paths in the scripts as needed.
 
